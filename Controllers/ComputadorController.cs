@@ -6,79 +6,111 @@ using Microsoft.AspNetCore.Mvc;
 using TiendaGamer.Productos;
 
 // Controlador de Computadores
-[ApiController]
+using Microsoft.AspNetCore.Mvc;
+
 [Route("api/[controller]")]
-public class ComputersController : ControllerBase
+[ApiController]
+public class ComputadorController : ControllerBase
 {
-    private readonly IComputadorService _computerService;
+    private readonly IComputadorService _computadorService;
 
-    // Usar inyección de dependencias para el servicio
-    public ComputersController(IComputadorService computerService)
+    public ComputadorController(IComputadorService computadorService)
     {
-        _computerService = computerService;
+        _computadorService = computadorService;
     }
 
-    [HttpPost("add/dell/desktop")]
-    public IActionResult AddDellDesktop([FromBody] ComputerDTO dto)
+    // GET para crear un escritorio por marca
+    [HttpGet("escritorio/{marca}")]
+    public IActionResult CrearEscritorio(string marca)
     {
-        _computerService.AddDellDesktop(dto.Processor, dto.RAM, dto.Storage);
-        return StatusCode(StatusCodes.Status201Created, "Dell Desktop added successfully.");
+        try
+        {
+            var escritorio = _computadorService.CrearEscritorio(marca);
+            return Ok(new { message = $"Escritorio creado Especificaciones: { escritorio }"});
+        }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
-    [HttpPost("add/dell/laptop")]
-    public IActionResult AddDellLaptop([FromBody] ComputerDTO dto)
+    // GET para crear un portátil por marca
+    [HttpGet("portatil/{marca}")]
+    public IActionResult CrearPortatil(string marca)
     {
-        _computerService.AddDellLaptop(dto.Processor, dto.RAM, dto.Storage);
-        return StatusCode(StatusCodes.Status201Created, "Dell Laptop added successfully.");
+        try
+        {
+            var portatil = _computadorService.CrearPortatil(marca);
+            return Ok(new { message = $"Portátil creado Especificaciones: { portatil }" });
+        }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
-    [HttpPost("add/hp/desktop")]
-    public IActionResult AddHPDesktop([FromBody] ComputerDTO dto)
+    // POST para personalizar un escritorio
+    [HttpPost("personalizar/escritorio")]
+    public IActionResult PersonalizarEscritorio([FromBody] PersonalizacionComputadorDto personalizacion)
     {
-        _computerService.AddHPDesktop(dto.Processor, dto.RAM, dto.Storage);
-        return StatusCode(StatusCodes.Status201Created, "HP Desktop added successfully.");
+        try
+        {
+            var escritorio = _computadorService.PersonalizarEscritorio(
+                personalizacion.Marca,
+                personalizacion.Procesador,
+                personalizacion.Ram,
+                personalizacion.Almacenamiento
+            );
+            return Ok(new { message = $"Escritorio personalizado creado Especificaciones: { escritorio }" });
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
-    [HttpPost("add/hp/laptop")]
-    public IActionResult AddHPLaptop([FromBody] ComputerDTO dto)
+    // POST para personalizar un portátil
+    [HttpPost("personalizar/portatil")]
+    public IActionResult PersonalizarPortatil([FromBody] PersonalizacionComputadorDto personalizacion)
     {
-        _computerService.AddHPLaptop(dto.Processor, dto.RAM, dto.Storage);
-        return StatusCode(StatusCodes.Status201Created, "HP Laptop added successfully.");
+        try
+        {
+            var portatil = _computadorService.PersonalizarPortatil(
+                personalizacion.Marca,
+                personalizacion.Procesador,
+                personalizacion.Ram,
+                personalizacion.Almacenamiento
+            );
+            return Ok(new { message = $"Portátil personalizado creado Especificaciones: { portatil }" });
+        }
+        catch (Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
-    [HttpGet("desktops")]
-    public IActionResult GetDesktops()
+    // GET para obtener la lista de escritorios
+    [HttpGet("escritorios")]
+    public IActionResult ObtenerEscritorios()
     {
-        var desktops = _computerService.GetAllDesktops();
-        return Ok(desktops);
+        var escritorios = _computadorService.ObtenerEscritorios();
+        return Ok(escritorios);
     }
 
-    [HttpGet("laptops")]
-    public IActionResult GetLaptops()
+    // GET para obtener la lista de portátiles
+    [HttpGet("portatiles")]
+    public IActionResult ObtenerPortatiles()
     {
-        var laptops = _computerService.GetAllLaptops();
-        return Ok(laptops);
-    }
-
-    [HttpDelete("desktop")]
-    public IActionResult DeleteDesktop([FromBody] IEscritorio desktop)
-    {
-        _computerService.RemoveDesktop(desktop);
-        return NoContent();
-    }
-
-    [HttpDelete("laptop")]
-    public IActionResult DeleteLaptop([FromBody] IPortatil laptop)
-    {
-        _computerService.RemoveLaptop(laptop);
-        return NoContent();
+        var portatiles = _computadorService.ObtenerPortatiles();
+        return Ok(portatiles);
     }
 }
 
-// DTO para recibir especificaciones de computadores
-public class ComputerDTO
+// DTO para la personalización de computadores
+public class PersonalizacionComputadorDto
 {
-    public string Processor { get; set; }
-    public int RAM { get; set; }
-    public int Storage { get; set; }
+    public string Marca { get; set; }
+    public string Procesador { get; set; }
+    public int Ram { get; set; }
+    public int Almacenamiento { get; set; }
 }

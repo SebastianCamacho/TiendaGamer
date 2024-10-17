@@ -7,20 +7,20 @@ namespace TiendaGamer.Productos.FactoryMethod
     {
         public override IEscritorio CrearEscritorio()
         {
-            return new ComputadorBuilder()
-                .SetProcessor("Intel Core i7")
+            return new DellComputadorBuilder()
+                .SetProcesador("Intel Core i7")
                 .SetRAM(16)
-                .SetStorage(512)
-                .BuildDellEscritorio();
+                .SetAlmacenamiento(512)
+                .BuildEscritorio();
         }
 
         public override IPortatil CrearPortatil()
         {
-            return new ComputadorBuilder()
-                .SetProcessor("Intel Core i5")
+            return new DellComputadorBuilder()
+                .SetProcesador("Intel Core i5")
                 .SetRAM(8)
-                .SetStorage(256)
-                .BuildDellPortatil();
+                .SetAlmacenamiento(256)
+                .BuildPortatil();
         }
     }
 }

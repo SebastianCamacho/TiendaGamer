@@ -7,20 +7,20 @@ namespace TiendaGamer.Productos.FactoryMethod
     {
         public override IEscritorio CrearEscritorio()
         {
-            return new ComputadorBuilder()
-                .SetProcessor("AMD Ryzen 5")
+            return new HPComputadorBuilder()
+                .SetProcesador("AMD Ryzen 5")
                 .SetRAM(16)
-                .SetStorage(1024)
-                .BuildHPEscritorio();
+                .SetAlmacenamiento(1024)
+                .BuildEscritorio();
         }
 
         public override IPortatil CrearPortatil()
         {
-            return new ComputadorBuilder()
-                .SetProcessor("AMD Ryzen 3")
+            return new HPComputadorBuilder()
+                .SetProcesador("AMD Ryzen 3")
                 .SetRAM(8)
-                .SetStorage(512)
-                .BuildHPPortatil();
+                .SetAlmacenamiento(512)
+                .BuildPortatil();
         }
     }
 }

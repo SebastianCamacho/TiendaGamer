@@ -1,88 +1,24 @@
 [
   {
-    "ContainingType": "ComputersController",
-    "Method": "AddDellDesktop",
-    "RelativePath": "api/Computers/add/dell/desktop",
-    "HttpMethod": "POST",
+    "ContainingType": "ComputadorController",
+    "Method": "CrearEscritorio",
+    "RelativePath": "api/Computador/escritorio/{marca}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "ComputerDTO",
+        "Name": "marca",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ComputersController",
-    "Method": "AddDellLaptop",
-    "RelativePath": "api/Computers/add/dell/laptop",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "ComputerDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ComputersController",
-    "Method": "AddHPDesktop",
-    "RelativePath": "api/Computers/add/hp/desktop",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "ComputerDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ComputersController",
-    "Method": "AddHPLaptop",
-    "RelativePath": "api/Computers/add/hp/laptop",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "ComputerDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ComputersController",
-    "Method": "DeleteDesktop",
-    "RelativePath": "api/Computers/desktop",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "desktop",
-        "Type": "TiendaGamer.Productos.IEscritorio",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ComputersController",
-    "Method": "GetDesktops",
-    "RelativePath": "api/Computers/desktops",
+    "ContainingType": "ComputadorController",
+    "Method": "ObtenerEscritorios",
+    "RelativePath": "api/Computador/escritorios",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -90,25 +26,57 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ComputersController",
-    "Method": "DeleteLaptop",
-    "RelativePath": "api/Computers/laptop",
-    "HttpMethod": "DELETE",
+    "ContainingType": "ComputadorController",
+    "Method": "PersonalizarEscritorio",
+    "RelativePath": "api/Computador/personalizar/escritorio",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "laptop",
-        "Type": "TiendaGamer.Productos.IPortatil",
+        "Name": "personalizacion",
+        "Type": "PersonalizacionComputadorDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ComputersController",
-    "Method": "GetLaptops",
-    "RelativePath": "api/Computers/laptops",
+    "ContainingType": "ComputadorController",
+    "Method": "PersonalizarPortatil",
+    "RelativePath": "api/Computador/personalizar/portatil",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personalizacion",
+        "Type": "PersonalizacionComputadorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComputadorController",
+    "Method": "CrearPortatil",
+    "RelativePath": "api/Computador/portatil/{marca}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "marca",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComputadorController",
+    "Method": "ObtenerPortatiles",
+    "RelativePath": "api/Computador/portatiles",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

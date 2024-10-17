@@ -9,86 +9,80 @@ namespace TiendaGamer.Servicios
     // Interfaz del Servicio de Computadores
     public interface IComputadorService
     {
-        void AddDellDesktop(string processor, int ram, int storage);
-        void AddDellLaptop(string processor, int ram, int storage);
-        void AddHPDesktop(string processor, int ram, int storage);
-        void AddHPLaptop(string processor, int ram, int storage);
-        List<IEscritorio> GetAllDesktops();
-        List<IPortatil> GetAllLaptops();
-        void RemoveDesktop(IEscritorio desktop);
-        void RemoveLaptop(IPortatil laptop);
+        IEscritorio CrearEscritorio(string marca);
+        IPortatil CrearPortatil(string marca);
+        IEscritorio PersonalizarEscritorio(string marca, string procesador, int ram, int almacenamiento);
+        IPortatil PersonalizarPortatil(string marca, string procesador, int ram, int almacenamiento);
+        List<IEscritorio> ObtenerEscritorios();
+        List<IPortatil> ObtenerPortatiles();
     }
-    // Servicio de Computadores
-    public class ComputadorService: IComputadorService
+
+    public class ComputadorService : IComputadorService
     {
-        private readonly List<IEscritorio> _desktops = new();
-        private readonly List<IPortatil> _laptops = new();
+        private readonly List<IEscritorio> _escritorios;
+        private readonly List<IPortatil> _portatiles;
 
-        public void AddDellDesktop(string processor, int ram, int storage)
+        public ComputadorService()
         {
-            var desktop = new ComputadorBuilder()
-                .SetProcessor(processor)
-                .SetRAM(ram)
-                .SetStorage(storage)
-                .BuildHPEscritorio();
-
-            _desktops.Add(desktop);
+            _escritorios = new List<IEscritorio>();
+            _portatiles = new List<IPortatil>();
         }
 
-        public void AddDellLaptop(string processor, int ram, int storage)
+        public IEscritorio CrearEscritorio(string marca)
         {
-            var laptop = new ComputadorBuilder()
-                .SetProcessor(processor)
-                .SetRAM(ram)
-                .SetStorage(storage)
-                .BuildDellPortatil();
-
-            _laptops.Add(laptop);
+            var factory = ObtenerFabricaPorMarca(marca);
+            var escritorio = factory.CrearEscritorio();
+            _escritorios.Add(escritorio);
+            return escritorio;
         }
 
-        public void AddHPDesktop(string processor, int ram, int storage)
+        public IPortatil CrearPortatil(string marca)
         {
-            var desktop = new ComputadorBuilder()
-                .SetProcessor(processor)
-                .SetRAM(ram)
-                .SetStorage(storage)
-                .BuildHPEscritorio();
-
-            _desktops.Add(desktop);
+            var factory = ObtenerFabricaPorMarca(marca);
+            var portatil = factory.CrearPortatil();
+            _portatiles.Add(portatil);
+            return portatil;
         }
 
-        public void AddHPLaptop(string processor, int ram, int storage)
+        public IEscritorio PersonalizarEscritorio(string marca, string procesador, int ram, int almacenamiento)
         {
-            var laptop = new ComputadorBuilder()
-                .SetProcessor(processor)
-                .SetRAM(ram)
-                .SetStorage(storage)
-                .BuildHPPortatil();
-
-            _laptops.Add(laptop);
+            var builder = ObtenerBuilderPorMarca(marca);
+            var escritorio = builder.SetProcesador(procesador).SetRAM(ram).SetAlmacenamiento(almacenamiento).BuildEscritorio();
+            _escritorios.Add(escritorio);
+            return escritorio;
         }
 
-        public List<IEscritorio> GetAllDesktops()
+        public IPortatil PersonalizarPortatil(string marca, string procesador, int ram, int almacenamiento)
         {
-            return _desktops;
+            var builder = ObtenerBuilderPorMarca(marca);
+            var portatil = builder.SetProcesador(procesador).SetRAM(ram).SetAlmacenamiento(almacenamiento).BuildPortatil();
+            _portatiles.Add(portatil);
+            return portatil;
         }
 
-        public List<IPortatil> GetAllLaptops()
+        public List<IEscritorio> ObtenerEscritorios() => _escritorios;
+        public List<IPortatil> ObtenerPortatiles() => _portatiles;
+
+        private ComputadorFactory ObtenerFabricaPorMarca(string marca)
         {
-            return _laptops;
+            return marca.ToLower() switch
+            {
+                "dell" => new DellFactory(),
+                "hp" => new HPFactory(),
+                _ => throw new ArgumentException("Marca no soportada")
+            };
         }
 
-        public void RemoveDesktop(IEscritorio desktop)
+        private IComputadorBuilder ObtenerBuilderPorMarca(string marca)
         {
-            _desktops.Remove(desktop);
-        }
-
-        public void RemoveLaptop(IPortatil laptop)
-        {
-            _laptops.Remove(laptop);
+            return marca.ToLower() switch
+            {
+                "dell" => new DellComputadorBuilder(),
+                "hp" => new HPComputadorBuilder(),
+                _ => throw new ArgumentException("Marca no soportada")
+            };
         }
     }
-
 
 
 }
