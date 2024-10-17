@@ -14,7 +14,7 @@ namespace TiendaGamer.Productos.FactoryMethod
                 .BuildHPEscritorio();
         }
 
-        public override IPortatl CrearPortatil()
+        public override IPortatil CrearPortatil()
         {
             return new ComputadorBuilder()
                 .SetProcessor("AMD Ryzen 3")

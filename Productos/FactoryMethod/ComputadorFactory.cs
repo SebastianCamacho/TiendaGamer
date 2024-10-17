@@ -4,6 +4,6 @@
     public abstract class ComputadorFactory
     {
         public abstract IEscritorio CrearEscritorio();
-        public abstract IPortatl CrearPortatil();
+        public abstract IPortatil CrearPortatil();
     }
 }

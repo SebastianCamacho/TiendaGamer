@@ -14,7 +14,7 @@ namespace TiendaGamer.Productos.FactoryMethod
                 .BuildDellEscritorio();
         }
 
-        public override IPortatl CrearPortatil()
+        public override IPortatil CrearPortatil()
         {
             return new ComputadorBuilder()
                 .SetProcessor("Intel Core i5")

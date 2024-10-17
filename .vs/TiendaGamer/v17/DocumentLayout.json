@@ -1,54 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\",
+  "WorkspaceRootPath": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\abstractfactory\\ibrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\controllers\\computadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:controllers\\computadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\servicios\\icomputadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:servicios\\icomputadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\iportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\iportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\abstractfactory\\ibrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\abstractfactory\\ibrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\computadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\factorymethod\\computadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\computadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\abstractfactory\\dellbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\abstractfactory\\dellbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\abstractfactory\\dellbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\dellfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\factorymethod\\dellfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\dellfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\builder\\computadorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\builder\\computadorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\builder\\computadorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\hpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\factorymethod\\hpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\hpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\iescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\iescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\iescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\dellescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\dellescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\dellescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\dellportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\dellportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\dellportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\hpescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\hpescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\hpescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\hpportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|e:\\escritorio\\upc\\u2024-2\\electiva iv - patrones de dise\u00F1os\\parcial corte 2\\tiendagamer\\productos\\hpportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\hpportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\iportatl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\iportatl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,7 +80,7 @@
         },
         {
           "DockedHeight": 29,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,60 +95,94 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DellBrandFactory.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
-              "RelativeDocumentMoniker": "Productos\\AbstractFactory\\DellBrandFactory.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
-              "RelativeToolTip": "Productos\\AbstractFactory\\DellBrandFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:57:57.697Z"
+              "WhenOpened": "2024-10-17T15:50:03.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HPFactory.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
-              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\HPFactory.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
-              "RelativeToolTip": "Productos\\FactoryMethod\\HPFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ComputadorController.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Controllers\\ComputadorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComputadorController.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Controllers\\ComputadorController.cs",
+              "RelativeToolTip": "Controllers\\ComputadorController.cs",
+              "ViewState": "AgIAAD4AAADgMjMzMzMnwEYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:54:48.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DellFactory.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
-              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\DellFactory.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
-              "RelativeToolTip": "Productos\\FactoryMethod\\DellFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:53:34.147Z"
+              "WhenOpened": "2024-10-17T15:44:27.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ComputadorFactory.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
-              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\ComputadorFactory.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
-              "RelativeToolTip": "Productos\\FactoryMethod\\ComputadorFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Title": "IComputadoraService.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Servicios\\IComputadoraService.cs",
+              "RelativeDocumentMoniker": "Servicios\\IComputadoraService.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Servicios\\IComputadoraService.cs",
+              "RelativeToolTip": "Servicios\\IComputadoraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:50:18.991Z"
+              "WhenOpened": "2024-10-17T15:38:09.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "HPFactory.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\HPFactory.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\HPFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:54:48.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DellFactory.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\DellFactory.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\DellFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:53:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComputadorFactory.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:50:18.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ComputadorBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
               "RelativeDocumentMoniker": "Productos\\Builder\\ComputadorBuilder.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
               "RelativeToolTip": "Productos\\Builder\\ComputadorBuilder.cs",
               "ViewState": "AgIAABoAAAAAMzMzMzMXwCoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +190,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "IPortatil.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\IPortatil.cs",
+              "RelativeDocumentMoniker": "Productos\\IPortatil.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\IPortatil.cs",
+              "RelativeToolTip": "Productos\\IPortatil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:44:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DellBrandFactory.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "RelativeToolTip": "Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:57:57.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IBrandFactory.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
               "RelativeDocumentMoniker": "Productos\\AbstractFactory\\IBrandFactory.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
               "RelativeToolTip": "Productos\\AbstractFactory\\IBrandFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,16 +227,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IEscritorio.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IEscritorio.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\IEscritorio.cs",
               "RelativeDocumentMoniker": "Productos\\IEscritorio.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IEscritorio.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\IEscritorio.cs",
               "RelativeToolTip": "Productos\\IEscritorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DellEscritorio.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellEscritorio.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\DellEscritorio.cs",
               "RelativeDocumentMoniker": "Productos\\DellEscritorio.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellEscritorio.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\DellEscritorio.cs",
               "RelativeToolTip": "Productos\\DellEscritorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,23 +252,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DellPortatil.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellPortatil.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\DellPortatil.cs",
               "RelativeDocumentMoniker": "Productos\\DellPortatil.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellPortatil.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\DellPortatil.cs",
               "RelativeToolTip": "Productos\\DellPortatil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:52:59.459Z"
+              "WhenOpened": "2024-10-17T14:52:59.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "HPEscritorio.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPEscritorio.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\HPEscritorio.cs",
               "RelativeDocumentMoniker": "Productos\\HPEscritorio.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPEscritorio.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\HPEscritorio.cs",
               "RelativeToolTip": "Productos\\HPEscritorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,27 +277,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "HPPortatil.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPPortatil.cs",
+              "DocumentMoniker": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\HPPortatil.cs",
               "RelativeDocumentMoniker": "Productos\\HPPortatil.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPPortatil.cs",
+              "ToolTip": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISE\u00D1OS\\parcial corte 2\\TiendaGamer\\Productos\\HPPortatil.cs",
               "RelativeToolTip": "Productos\\HPPortatil.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:52:33.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPortatl.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IPortatl.cs",
-              "RelativeDocumentMoniker": "Productos\\IPortatl.cs",
-              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IPortatl.cs",
-              "RelativeToolTip": "Productos\\IPortatl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:44:50.317Z"
+              "WhenOpened": "2024-10-17T14:52:33.195Z",
+              "EditorCaption": ""
             }
           ]
         }

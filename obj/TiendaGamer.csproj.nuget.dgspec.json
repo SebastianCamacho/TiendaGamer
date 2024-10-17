@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\TiendaGamer.csproj": {}
+    "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISEÑOS\\parcial corte 2\\TiendaGamer\\TiendaGamer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\TiendaGamer.csproj": {
+    "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISEÑOS\\parcial corte 2\\TiendaGamer\\TiendaGamer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\TiendaGamer.csproj",
+        "projectUniqueName": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISEÑOS\\parcial corte 2\\TiendaGamer\\TiendaGamer.csproj",
         "projectName": "TiendaGamer",
-        "projectPath": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\TiendaGamer.csproj",
+        "projectPath": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISEÑOS\\parcial corte 2\\TiendaGamer\\TiendaGamer.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\obj\\",
+        "outputPath": "E:\\Escritorio\\UPC\\U2024-2\\ELECTIVA IV - PATRONES DE DISEÑOS\\parcial corte 2\\TiendaGamer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",

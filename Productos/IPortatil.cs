@@ -1,6 +1,6 @@
 ﻿namespace TiendaGamer.Productos
 {
-    public interface IPortatl
+    public interface IPortatil
     {
         void GetSpecifications();
     }

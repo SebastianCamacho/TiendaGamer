@@ -1,6 +1,6 @@
 ﻿namespace TiendaGamer.Productos
 {
-    public class HPPortatil : IPortatl
+    public class HPPortatil : IPortatil
     {
         private string _processor;
         private int _ram;
