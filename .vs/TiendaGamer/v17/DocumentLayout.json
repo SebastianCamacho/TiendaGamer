@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\abstractfactory\\ibrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\abstractfactory\\ibrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\computadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\computadorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\abstractfactory\\dellbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\abstractfactory\\dellbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\dellfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\dellfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\builder\\computadorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\builder\\computadorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\factorymethod\\hpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\factorymethod\\hpfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\iescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\iescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\dellescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\dellescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\dellportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\dellportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\hpescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\hpescritorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\hpportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\hpportatil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|c:\\users\\juan_\\source\\repos\\tiendagamer\\productos\\iportatl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDBFE16-FA0A-4040-A72A-273ADE00FC3C}|TiendaGamer.csproj|solutionrelative:productos\\iportatl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 394,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 29,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DellBrandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "RelativeToolTip": "Productos\\AbstractFactory\\DellBrandFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:57:57.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HPFactory.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\HPFactory.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\HPFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\HPFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:54:48.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DellFactory.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\DellFactory.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\DellFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\DellFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:53:34.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputadorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "RelativeToolTip": "Productos\\FactoryMethod\\ComputadorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:50:18.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputadorBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
+              "RelativeDocumentMoniker": "Productos\\Builder\\ComputadorBuilder.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\Builder\\ComputadorBuilder.cs",
+              "RelativeToolTip": "Productos\\Builder\\ComputadorBuilder.cs",
+              "ViewState": "AgIAABoAAAAAMzMzMzMXwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:47:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBrandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
+              "RelativeDocumentMoniker": "Productos\\AbstractFactory\\IBrandFactory.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\AbstractFactory\\IBrandFactory.cs",
+              "RelativeToolTip": "Productos\\AbstractFactory\\IBrandFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:51:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEscritorio.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IEscritorio.cs",
+              "RelativeDocumentMoniker": "Productos\\IEscritorio.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IEscritorio.cs",
+              "RelativeToolTip": "Productos\\IEscritorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:42:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DellEscritorio.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellEscritorio.cs",
+              "RelativeDocumentMoniker": "Productos\\DellEscritorio.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellEscritorio.cs",
+              "RelativeToolTip": "Productos\\DellEscritorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:53:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DellPortatil.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellPortatil.cs",
+              "RelativeDocumentMoniker": "Productos\\DellPortatil.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\DellPortatil.cs",
+              "RelativeToolTip": "Productos\\DellPortatil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:52:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HPEscritorio.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPEscritorio.cs",
+              "RelativeDocumentMoniker": "Productos\\HPEscritorio.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPEscritorio.cs",
+              "RelativeToolTip": "Productos\\HPEscritorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:52:48.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HPPortatil.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPPortatil.cs",
+              "RelativeDocumentMoniker": "Productos\\HPPortatil.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\HPPortatil.cs",
+              "RelativeToolTip": "Productos\\HPPortatil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:52:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPortatl.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IPortatl.cs",
+              "RelativeDocumentMoniker": "Productos\\IPortatl.cs",
+              "ToolTip": "C:\\Users\\juan_\\source\\repos\\TiendaGamer\\Productos\\IPortatl.cs",
+              "RelativeToolTip": "Productos\\IPortatl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:44:50.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
